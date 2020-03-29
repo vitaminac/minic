@@ -20,7 +20,11 @@ C interpreter that interprets itself.
 
 ## Courses
 
-- [ ] Stanford CS 143
+- [ ] [UC Berkeley CS 164: Programming Languages and Compilers](https://www2.eecs.berkeley.edu/Courses/CS164/)
+- [ ] [CMU 15-411/611: Compiler Design](http://www.cs.cmu.edu/~janh/courses/411/18/index.html)
+- [ ] [MIT 6.035: Computer Language Engineering](http://6.035.scripts.mit.edu/fa18/)
+- [ ] [Stanford CS 143](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
+- [ ] [Stanford Online: Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers)
 
 ## Books
 
@@ -42,6 +46,7 @@ C interpreter that interprets itself.
 * [8CC](https://github.com/rui314/8cc)
 * [Lua](https://github.com/lua/lua)
 * [CoCo](https://github.com/kentdlee/CoCo)
+* [ChocoPy](https://chocopy.org/)
 * [CPython](https://github.com/python/cpython)
 * [GNU GCC](https://github.com/gcc-mirror/gcc)
 * [Flex](https://github.com/westes/flex)
