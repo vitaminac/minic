@@ -24,7 +24,7 @@ C interpreter that interprets itself.
 - [ ] [CMU 15-411/611: Compiler Design](http://www.cs.cmu.edu/~janh/courses/411/18/index.html)
 - [ ] [MIT 6.035: Computer Language Engineering](http://6.035.scripts.mit.edu/fa18/)
 - [ ] [Stanford CS 143](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
-- [ ] [Stanford Online: Compilers](https://online.stanford.edu/courses/soe-ycscs1-compilers)
+- [ ] [edX Stanford Online: Compilers](https://www.edx.org/es/course/compilers)
 
 ## Books
 
