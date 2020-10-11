@@ -37,7 +37,7 @@ C interpreter that interprets itself.
 - [ ] Inside the C++ Object Model
 - [ ] Modern C++ Design
 - [ ] Effective C++ Digital Collection: 140 Ways to Improve Your Programming
-- [ ] Design Patterns: Elements Of Reusable Object-Oriented Software
+- [ ] [Static Program Analysis](https://cs.au.dk/~amoeller/spa/)
 
 # Projects
 
@@ -65,6 +65,5 @@ C interpreter that interprets itself.
 
 # References
 
-* [Java SE Specifications](https://docs.oracle.com/javase/specs/index.html)
 * ANSI C - ISO/IEC 9899 Specification
 * [Scala Language Specification](https://docs.scala-lang.org/)
