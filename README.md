@@ -18,10 +18,11 @@ C interpreter that interprets itself.
 
 # Courses
 
-- [ ] [UC Berkeley CS 164: Programming Languages and Compilers](https://www2.eecs.berkeley.edu/Courses/CS164/)
+- [ ] [UC Berkeley CS 164: Programming Languages and Compilers](https://inst.eecs.berkeley.edu/~cs164)
 - [ ] [CMU 15-411/611: Compiler Design](http://www.cs.cmu.edu/~janh/courses/411/18/index.html)
 - [ ] [MIT 6.035: Computer Language Engineering](http://6.035.scripts.mit.edu/fa18/)
-- [ ] [Stanford: CS 143](https://web.stanford.edu/class/archive/cs/cs143/cs143.1128/)
+- [ ] [Harvard CS 153: Compilers](https://www.seas.harvard.edu/courses/cs153/)
+- [ ] [Stanford CS 143: Compilers](https://web.stanford.edu/class/cs143/)
 - [ ] [edX Stanford Online: Compilers](https://www.edx.org/es/course/compilers)
 - [ ] [Udacity by Georgia Tech: CS8803 Compilers - Theory and Practice](https://www.udacity.com/course/compilers-theory-and-practice--ud168)
 
