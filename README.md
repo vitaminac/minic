@@ -32,7 +32,6 @@ C interpreter that interprets itself.
 - [ ] [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
 - [ ] [List of compiler books](https://gcc.gnu.org/wiki/ListOfCompilerBooks)
 - [x] C Primer Plus
-- [ ] The C Programming Language
 - [ ] C++ Primer Plus
 - [ ] C++ Primer
 - [ ] [The C++ Programming Language](http://www.stroustrup.com/4th.html)
