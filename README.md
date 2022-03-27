@@ -66,6 +66,17 @@ C interpreter that interprets itself.
 
 * [Lex & Yacc](http://dinosaur.compilertools.net/)
 
+# IDE
+
+* [VSCode](https://github.com/microsoft/vscode)
+* [Intellij](https://github.com/JetBrains/intellij-community)
+* [Eclipse](https://git.eclipse.org/c/)
+* [NetBeans](https://github.com/apache/netbeans)
+* [VIM](https://github.com/vim/vim)
+* [Atom](https://github.com/atom/atom)
+* [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
+* [Prism](https://github.com/PrismJS/prism)
+
 # References
 
 * ANSI C - ISO/IEC 9899 Specification
