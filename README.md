@@ -15,6 +15,7 @@ C interpreter that interprets itself.
 - [ ] [手把手教你构建C语言编译器](https://lotabout.me/2015/write-a-C-interpreter-0/)
 - [ ] Python源码剖析
 - [ ] [CPython internals](http://pgbovine.net/cpython-internals.htm)
+- [ ] [Make a compiler](https://www.youtube.com/playlist?list=PLvaIU2QC2uvFnVxXe-XzXJfd4dXGz5qBB)
 
 # Courses
 
