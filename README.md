@@ -71,6 +71,7 @@ C interpreter that interprets itself.
 
 * [VSCode](https://github.com/microsoft/vscode)
 * [Intellij](https://github.com/JetBrains/intellij-community)
+* [Visual Studio](https://visualstudio.microsoft.com/)
 * [Eclipse](https://git.eclipse.org/c/)
 * [NetBeans](https://github.com/apache/netbeans)
 * [VIM](https://github.com/vim/vim)
