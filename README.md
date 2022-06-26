@@ -69,15 +69,16 @@ C interpreter that interprets itself.
 
 # IDE
 
-* [VSCode](https://github.com/microsoft/vscode)
 * [Intellij](https://github.com/JetBrains/intellij-community)
 * [Visual Studio](https://visualstudio.microsoft.com/)
+* [VSCode](https://github.com/microsoft/vscode)
+* [Sublime Text](https://www.sublimetext.com/)
 * [Eclipse](https://git.eclipse.org/c/)
 * [NetBeans](https://github.com/apache/netbeans)
-* [VIM](https://github.com/vim/vim)
 * [Atom](https://github.com/atom/atom)
 * [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
-* [Prism](https://github.com/PrismJS/prism)
+* [Vim](https://github.com/vim/vim)
+* [nano](https://www.nano-editor.org/git.php)
 
 # References
 
