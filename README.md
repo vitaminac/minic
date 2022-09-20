@@ -67,19 +67,6 @@ C interpreter that interprets itself.
 
 * [Lex & Yacc](http://dinosaur.compilertools.net/)
 
-# IDE
-
-* [Intellij](https://github.com/JetBrains/intellij-community)
-* [Visual Studio](https://visualstudio.microsoft.com/)
-* [VSCode](https://github.com/microsoft/vscode)
-* [Sublime Text](https://www.sublimetext.com/)
-* [Eclipse](https://git.eclipse.org/c/)
-* [NetBeans](https://github.com/apache/netbeans)
-* [Atom](https://github.com/atom/atom)
-* [Notepad++](https://github.com/notepad-plus-plus/notepad-plus-plus)
-* [Vim](https://github.com/vim/vim)
-* [nano](https://www.nano-editor.org/git.php)
-
 # References
 
 * ANSI C - ISO/IEC 9899 Specification
