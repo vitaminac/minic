@@ -30,20 +30,25 @@ C interpreter that interprets itself.
 
 # Books
 
-- [ ] [Structure and Interpretation of Computer Programs](https://web.mit.edu/alexmv/6.037/sicp.pdf)
-- [ ] [List of compiler books](https://gcc.gnu.org/wiki/ListOfCompilerBooks)
+- [ ] Structure and Interpretation of Computer Programs
+- [List of compiler books](https://gcc.gnu.org/wiki/ListOfCompilerBooks)
   - [ ] Compilers: Principles, Techniques, and Tools
   - [ ] Modern Compiler Implementation in C
   - [ ] Advanced Compiler Design and Implementation
   - [ ] Engineering: A Compiler
-- [x] C Primer Plus
-- [ ] The C Programming Language
-- [ ] C++ Primer Plus
-- [ ] C++ Primer
-- [ ] [The C++ Programming Language](http://www.stroustrup.com/4th.html)
-- [ ] Inside the C++ Object Model
-- [ ] Modern C++ Design
-- [ ] Effective C++ Digital Collection: 140 Ways to Improve Your Programming
+- Automata Theory Book
+  - [ ] Introduction to the Theory of Computation
+  - [ ] Introduction to Automata Theory, Languages, and Computation
+  - [ ] An Introduction to Formal Languages and Automata
+- C/C++
+  - [x] C Primer Plus
+  - [ ] The C Programming Language
+  - [ ] C++ Primer Plus
+  - [ ] C++ Primer
+  - [ ] [The C++ Programming Language](http://www.stroustrup.com/4th.html)
+  - [ ] Inside the C++ Object Model
+  - [ ] Modern C++ Design
+  - [ ] Effective C++ Digital Collection: 140 Ways to Improve Your Programming
 - [ ] [Static Program Analysis](https://cs.au.dk/~amoeller/spa/)
 
 # Projects
