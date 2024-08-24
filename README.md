@@ -30,7 +30,6 @@ C interpreter that interprets itself.
 
 # Books
 
-- [ ] Structure and Interpretation of Computer Programs
 - [List of compiler books](https://gcc.gnu.org/wiki/ListOfCompilerBooks)
   - [ ] Compilers: Principles, Techniques, and Tools
   - [ ] Modern Compiler Implementation in C
