@@ -56,7 +56,6 @@ C interpreter that interprets itself.
 * [8CC](https://github.com/rui314/8cc)
 * [Lua](https://github.com/lua/lua)
 * [CoCo](https://github.com/kentdlee/CoCo)
-* [CPython](https://github.com/python/cpython)
 * [Clang](https://github.com/llvm/llvm-project/tree/master/clang/)
 * [Google V8](https://github.com/v8/v8)
 * [Eclipse OpenJ9](https://github.com/eclipse/openj9)
